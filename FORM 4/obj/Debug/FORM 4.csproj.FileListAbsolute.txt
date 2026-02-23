@@ -1,0 +1,22 @@
+C:\Users\FMTAL\Desktop\m\FORM 4\bin\Debug\FORM 4.exe.config
+C:\Users\FMTAL\Desktop\m\FORM 4\bin\Debug\FORM 4.exe
+C:\Users\FMTAL\Desktop\m\FORM 4\bin\Debug\FORM 4.pdb
+C:\Users\FMTAL\Desktop\m\FORM 4\obj\Debug\FORM 4.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\m\FORM 4\obj\Debug\FORM_4.Form1.resources
+C:\Users\FMTAL\Desktop\m\FORM 4\obj\Debug\FORM_4.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\m\FORM 4\obj\Debug\FORM 4.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\m\FORM 4\obj\Debug\FORM 4.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\m\FORM 4\obj\Debug\FORM 4.exe
+C:\Users\FMTAL\Desktop\m\FORM 4\obj\Debug\FORM 4.pdb
+C:\Users\FMTAL\Desktop\m\FORM 4\obj\Debug\FORM 4.exe.config
+C:\Users\FMTAL\Desktop\FORM 4\bin\Debug\FORM 4.exe.config
+C:\Users\FMTAL\Desktop\FORM 4\bin\Debug\FORM 4.exe
+C:\Users\FMTAL\Desktop\FORM 4\bin\Debug\FORM 4.pdb
+C:\Users\FMTAL\Desktop\FORM 4\obj\Debug\FORM 4.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\FORM 4\obj\Debug\FORM 4.exe.config
+C:\Users\FMTAL\Desktop\FORM 4\obj\Debug\FORM_4.Form1.resources
+C:\Users\FMTAL\Desktop\FORM 4\obj\Debug\FORM_4.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\FORM 4\obj\Debug\FORM 4.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\FORM 4\obj\Debug\FORM 4.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\FORM 4\obj\Debug\FORM 4.exe
+C:\Users\FMTAL\Desktop\FORM 4\obj\Debug\FORM 4.pdb
