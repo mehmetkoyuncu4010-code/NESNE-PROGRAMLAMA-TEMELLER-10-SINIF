@@ -1,0 +1,24 @@
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\uygulama 2 form uygulamaları\obj\Debug\uygulama_2_form_uygulamaları.Form1.resources
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\uygulama 2 form uygulamaları\obj\Debug\uygulama_2_form_uygulamaları.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.csproj.CoreCompileInputs.cache
+E:\uygulama 2 form uygulamaları\bin\Debug\uygulama 2 form uygulamaları.exe.config
+E:\uygulama 2 form uygulamaları\bin\Debug\uygulama 2 form uygulamaları.exe
+E:\uygulama 2 form uygulamaları\bin\Debug\uygulama 2 form uygulamaları.pdb
+E:\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.csproj.AssemblyReference.cache
+E:\uygulama 2 form uygulamaları\obj\Debug\uygulama_2_form_uygulamaları.Form1.resources
+E:\uygulama 2 form uygulamaları\obj\Debug\uygulama_2_form_uygulamaları.Properties.Resources.resources
+E:\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.csproj.GenerateResource.cache
+E:\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.csproj.CoreCompileInputs.cache
+E:\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.exe
+E:\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.pdb
+E:\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.exe.config
+C:\Users\USER\OneDrive\Desktop\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.exe.config
+C:\Users\USER\OneDrive\Desktop\uygulama 2 form uygulamaları\obj\Debug\uygulama_2_form_uygulamaları.Form1.resources
+C:\Users\USER\OneDrive\Desktop\uygulama 2 form uygulamaları\obj\Debug\uygulama_2_form_uygulamaları.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.exe
+C:\Users\USER\OneDrive\Desktop\uygulama 2 form uygulamaları\obj\Debug\uygulama 2 form uygulamaları.pdb
