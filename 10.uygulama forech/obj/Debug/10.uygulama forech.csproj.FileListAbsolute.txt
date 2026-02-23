@@ -1,0 +1,10 @@
+C:\Users\FMTAL\Desktop\m\10.uygulama forech\bin\Debug\10.uygulama forech.exe.config
+C:\Users\FMTAL\Desktop\m\10.uygulama forech\bin\Debug\10.uygulama forech.exe
+C:\Users\FMTAL\Desktop\m\10.uygulama forech\bin\Debug\10.uygulama forech.pdb
+C:\Users\FMTAL\Desktop\m\10.uygulama forech\obj\Debug\10.uygulama forech.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\m\10.uygulama forech\obj\Debug\_10.uygulama_forech.Form1.resources
+C:\Users\FMTAL\Desktop\m\10.uygulama forech\obj\Debug\_10.uygulama_forech.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\m\10.uygulama forech\obj\Debug\10.uygulama forech.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\m\10.uygulama forech\obj\Debug\10.uygulama forech.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\m\10.uygulama forech\obj\Debug\10.uygulama forech.exe
+C:\Users\FMTAL\Desktop\m\10.uygulama forech\obj\Debug\10.uygulama forech.pdb
