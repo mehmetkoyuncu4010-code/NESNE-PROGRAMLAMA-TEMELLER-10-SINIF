@@ -1,0 +1,11 @@
+C:\Users\USER\OneDrive\Desktop\13 UYGULAMA\13 UYGULAMA\13 UYGULAMA\obj\Debug\13 UYGULAMA.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\13 UYGULAMA\13 UYGULAMA\13 UYGULAMA\obj\Debug\_13_UYGULAMA.Form1.resources
+C:\Users\USER\OneDrive\Desktop\13 UYGULAMA\13 UYGULAMA\13 UYGULAMA\obj\Debug\_13_UYGULAMA.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\13 UYGULAMA\13 UYGULAMA\13 UYGULAMA\obj\Debug\13 UYGULAMA.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\13 UYGULAMA\13 UYGULAMA\13 UYGULAMA\obj\Debug\13 UYGULAMA.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\13 UYGULAMA\13 UYGULAMA\13 UYGULAMA\bin\Debug\13 UYGULAMA.exe.config
+C:\Users\USER\OneDrive\Desktop\13 UYGULAMA\13 UYGULAMA\13 UYGULAMA\bin\Debug\13 UYGULAMA.exe
+C:\Users\USER\OneDrive\Desktop\13 UYGULAMA\13 UYGULAMA\13 UYGULAMA\bin\Debug\13 UYGULAMA.pdb
+C:\Users\USER\OneDrive\Desktop\13 UYGULAMA\13 UYGULAMA\13 UYGULAMA\obj\Debug\13 UYGULAMA.exe
+C:\Users\USER\OneDrive\Desktop\13 UYGULAMA\13 UYGULAMA\13 UYGULAMA\obj\Debug\13 UYGULAMA.pdb
+C:\Users\USER\OneDrive\Desktop\13 UYGULAMA\13 UYGULAMA\13 UYGULAMA\obj\Debug\13 UYGULAMA.exe.config
