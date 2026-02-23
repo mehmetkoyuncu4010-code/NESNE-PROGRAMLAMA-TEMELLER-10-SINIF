@@ -1,0 +1,10 @@
+C:\Users\FMTAL\Desktop\m\15.uygulama\bin\Debug\15.uygulama.exe.config
+C:\Users\FMTAL\Desktop\m\15.uygulama\bin\Debug\15.uygulama.exe
+C:\Users\FMTAL\Desktop\m\15.uygulama\bin\Debug\15.uygulama.pdb
+C:\Users\FMTAL\Desktop\m\15.uygulama\obj\Debug\15.uygulama.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\m\15.uygulama\obj\Debug\_15.uygulama.Form1.resources
+C:\Users\FMTAL\Desktop\m\15.uygulama\obj\Debug\_15.uygulama.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\m\15.uygulama\obj\Debug\15.uygulama.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\m\15.uygulama\obj\Debug\15.uygulama.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\m\15.uygulama\obj\Debug\15.uygulama.exe
+C:\Users\FMTAL\Desktop\m\15.uygulama\obj\Debug\15.uygulama.pdb
