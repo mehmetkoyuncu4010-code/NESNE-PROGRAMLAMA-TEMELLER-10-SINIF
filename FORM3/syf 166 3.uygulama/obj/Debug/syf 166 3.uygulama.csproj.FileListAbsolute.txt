@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Osman Kayra Kılınc 4103\syf 166 3.uygulama\syf 166 3.uygulama\bin\Debug\syf 166 3.uygulama.exe.config
+C:\Users\FMTAL\Desktop\Osman Kayra Kılınc 4103\syf 166 3.uygulama\syf 166 3.uygulama\bin\Debug\syf 166 3.uygulama.exe
+C:\Users\FMTAL\Desktop\Osman Kayra Kılınc 4103\syf 166 3.uygulama\syf 166 3.uygulama\bin\Debug\syf 166 3.uygulama.pdb
+C:\Users\FMTAL\Desktop\Osman Kayra Kılınc 4103\syf 166 3.uygulama\syf 166 3.uygulama\obj\Debug\syf 166 3.uygulama.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Osman Kayra Kılınc 4103\syf 166 3.uygulama\syf 166 3.uygulama\obj\Debug\syf_166_3.uygulama.Form1.resources
+C:\Users\FMTAL\Desktop\Osman Kayra Kılınc 4103\syf 166 3.uygulama\syf 166 3.uygulama\obj\Debug\syf_166_3.uygulama.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Osman Kayra Kılınc 4103\syf 166 3.uygulama\syf 166 3.uygulama\obj\Debug\syf 166 3.uygulama.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Osman Kayra Kılınc 4103\syf 166 3.uygulama\syf 166 3.uygulama\obj\Debug\syf 166 3.uygulama.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Osman Kayra Kılınc 4103\syf 166 3.uygulama\syf 166 3.uygulama\obj\Debug\syf 166 3.uygulama.exe
+C:\Users\FMTAL\Desktop\Osman Kayra Kılınc 4103\syf 166 3.uygulama\syf 166 3.uygulama\obj\Debug\syf 166 3.uygulama.pdb
+C:\Users\FMTAL\Desktop\Osman Kayra Kılınc 4103\syf 166 3.uygulama\syf 166 3.uygulama\obj\Debug\syf 166 3.uygulama.exe.config
