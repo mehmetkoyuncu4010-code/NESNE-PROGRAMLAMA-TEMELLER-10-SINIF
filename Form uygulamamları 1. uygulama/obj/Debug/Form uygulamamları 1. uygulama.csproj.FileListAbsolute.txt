@@ -1,0 +1,24 @@
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\Form uygulamamları 1. uygulama\bin\Debug\Form_uygulamamları_1.uygulama.exe.config
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\Form uygulamamları 1. uygulama\bin\Debug\Form_uygulamamları_1.uygulama.exe
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\Form uygulamamları 1. uygulama\bin\Debug\Form_uygulamamları_1.uygulama.pdb
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\Form uygulamamları 1. uygulama\obj\Debug\Form uygulamamları 1. uygulama.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\Form uygulamamları 1. uygulama\obj\Debug\Form_uygulamamları_1.uygulama.Form1.resources
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\Form uygulamamları 1. uygulama\obj\Debug\Form_uygulamamları_1.uygulama.Form2.resources
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\Form uygulamamları 1. uygulama\obj\Debug\Form_uygulamamları_1.uygulama.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\Form uygulamamları 1. uygulama\obj\Debug\Form uygulamamları 1. uygulama.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\Form uygulamamları 1. uygulama\obj\Debug\Form uygulamamları 1. uygulama.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\Form uygulamamları 1. uygulama\obj\Debug\Form_uygulamamları_1.uygulama.exe
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\Form uygulamamları 1. uygulama\obj\Debug\Form_uygulamamları_1.uygulama.pdb
+C:\Users\FMTAL\Desktop\mehmet kaan aktaş\Form uygulamamları 1. uygulama\obj\Debug\Form_uygulamamları_1.uygulama.exe.config
+C:\Users\USER\OneDrive\Desktop\Form uygulamamları 1. uygulama\bin\Debug\Form_uygulamamları_1.uygulama.exe.config
+C:\Users\USER\OneDrive\Desktop\Form uygulamamları 1. uygulama\bin\Debug\Form_uygulamamları_1.uygulama.exe
+C:\Users\USER\OneDrive\Desktop\Form uygulamamları 1. uygulama\bin\Debug\Form_uygulamamları_1.uygulama.pdb
+C:\Users\USER\OneDrive\Desktop\Form uygulamamları 1. uygulama\obj\Debug\Form uygulamamları 1. uygulama.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Form uygulamamları 1. uygulama\obj\Debug\Form_uygulamamları_1.uygulama.exe.config
+C:\Users\USER\OneDrive\Desktop\Form uygulamamları 1. uygulama\obj\Debug\Form_uygulamamları_1.uygulama.Form1.resources
+C:\Users\USER\OneDrive\Desktop\Form uygulamamları 1. uygulama\obj\Debug\Form_uygulamamları_1.uygulama.Form2.resources
+C:\Users\USER\OneDrive\Desktop\Form uygulamamları 1. uygulama\obj\Debug\Form_uygulamamları_1.uygulama.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\Form uygulamamları 1. uygulama\obj\Debug\Form uygulamamları 1. uygulama.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\Form uygulamamları 1. uygulama\obj\Debug\Form uygulamamları 1. uygulama.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Form uygulamamları 1. uygulama\obj\Debug\Form_uygulamamları_1.uygulama.exe
+C:\Users\USER\OneDrive\Desktop\Form uygulamamları 1. uygulama\obj\Debug\Form_uygulamamları_1.uygulama.pdb
