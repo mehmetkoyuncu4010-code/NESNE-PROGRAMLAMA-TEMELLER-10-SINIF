@@ -1,0 +1,33 @@
+C:\Users\FMTAL\Desktop\10B mehmet koyuncu\5 ünite 169\5 ünite 169\bin\Debug\5 ünite 169.exe.config
+C:\Users\FMTAL\Desktop\10B mehmet koyuncu\5 ünite 169\5 ünite 169\bin\Debug\5 ünite 169.exe
+C:\Users\FMTAL\Desktop\10B mehmet koyuncu\5 ünite 169\5 ünite 169\bin\Debug\5 ünite 169.pdb
+C:\Users\FMTAL\Desktop\10B mehmet koyuncu\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\10B mehmet koyuncu\5 ünite 169\5 ünite 169\obj\Debug\_5_ünite_169.Form1.resources
+C:\Users\FMTAL\Desktop\10B mehmet koyuncu\5 ünite 169\5 ünite 169\obj\Debug\_5_ünite_169.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\10B mehmet koyuncu\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\10B mehmet koyuncu\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\10B mehmet koyuncu\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.exe
+C:\Users\FMTAL\Desktop\10B mehmet koyuncu\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.pdb
+C:\Users\FMTAL\Desktop\10B mehmet koyuncu\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.exe.config
+D:\5 ünite 169\5 ünite 169\bin\Debug\5 ünite 169.exe.config
+D:\5 ünite 169\5 ünite 169\bin\Debug\5 ünite 169.exe
+D:\5 ünite 169\5 ünite 169\bin\Debug\5 ünite 169.pdb
+D:\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.csproj.AssemblyReference.cache
+D:\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.exe.config
+D:\5 ünite 169\5 ünite 169\obj\Debug\_5_ünite_169.Form1.resources
+D:\5 ünite 169\5 ünite 169\obj\Debug\_5_ünite_169.Properties.Resources.resources
+D:\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.csproj.GenerateResource.cache
+D:\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.csproj.CoreCompileInputs.cache
+D:\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.exe
+D:\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.pdb
+C:\Users\USER\OneDrive\Desktop\5 ünite 169\5 ünite 169\bin\Debug\5 ünite 169.exe.config
+C:\Users\USER\OneDrive\Desktop\5 ünite 169\5 ünite 169\bin\Debug\5 ünite 169.exe
+C:\Users\USER\OneDrive\Desktop\5 ünite 169\5 ünite 169\bin\Debug\5 ünite 169.pdb
+C:\Users\USER\OneDrive\Desktop\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.exe.config
+C:\Users\USER\OneDrive\Desktop\5 ünite 169\5 ünite 169\obj\Debug\_5_ünite_169.Form1.resources
+C:\Users\USER\OneDrive\Desktop\5 ünite 169\5 ünite 169\obj\Debug\_5_ünite_169.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.exe
+C:\Users\USER\OneDrive\Desktop\5 ünite 169\5 ünite 169\obj\Debug\5 ünite 169.pdb
